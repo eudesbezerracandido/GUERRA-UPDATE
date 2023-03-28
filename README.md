@@ -16,3 +16,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Mykola é um pacifista excêntrico que quer ser útil à humanidade. Quando a guerra começa em Donbass, o mundo ingênuo de Mykola está desmoronando quando os militantes matam sua esposa grávida e queimam sua casa. Recuperado, ele toma uma decisão crucial e se alista em uma empresa de franco-atiradores. Tendo conhecido os assassinos de sua esposa, ele se descontrola emocionalmente e organiza “terror de atirador” para o inimigo. Ele é salvo de uma morte sem sentido por seu instrutor, que é mortalmente ferido. A morte de um amigo deixa uma “cicatriz” e Mykola está pronta para sacrificar sua vida.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] INIMIGO INVISÍVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/znmFGF41VKALJIQx0coyjBXNWYm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quatro soldados americanos na 2ª Guerra Mundial, depois de testemunhar o cruel assassinato de um civil inocente nas mãos de seu sargento de pelotão, são enviados em uma missão de reconhecimento/suicídio liderada por um partidário local.</info>
+</item>
