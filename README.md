@@ -19,7 +19,7 @@
 
 <item>
 <title>[COLOR silver][B] INIMIGO INVISÍVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3efd1709c07986996d886660df2e0d3b53be6476</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/znmFGF41VKALJIQx0coyjBXNWYm.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Quatro soldados americanos na 2ª Guerra Mundial, depois de testemunhar o cruel assassinato de um civil inocente nas mãos de seu sargento de pelotão, são enviados em uma missão de reconhecimento/suicídio liderada por um partidário local.</info>
