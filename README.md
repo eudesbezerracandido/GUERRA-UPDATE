@@ -1,5 +1,16 @@
 # GUERRA-UPDATE
 
+
+
+
+<item>
+<title>[COLOR silver][B] A EXCEÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63439211762e105d9fb675c27c3ed3ec1c1501ec</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/69l4gEhfGW7X72OzuFE13mKvDe5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um agente da resistência holandesa na Segunda Guerra Mundial, trabalha disfarçado para Wiston Churchill para infiltrar um agente na casa do Kaiser. Um perigoso romance inflama entre um oficial alemão e uma jovem holandesa judaica, enquanto ocorre a corrida nazista para identificar e eliminar o agente por trás da deserção potencialmente desastrosa de seu ex-imperador para a Inglaterra.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A SNIPER RUSSA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:792c67e7962619974393d9ef79d910693fcc9762</link>
