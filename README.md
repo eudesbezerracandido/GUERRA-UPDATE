@@ -1,7 +1,12 @@
 # GUERRA-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] 36 HORAS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7673014643f7c8aedfd13c68b9662d7a74c7b59</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eRUrER9xFIiLp2aMIJjCTEOU3VX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desdobrando-se ao longo de 36 horas, em três guerras separadas – a Guerra Civil Americana, a Primeira Guerra Mundial e o Iraque – acompanhamos um pequeno grupo de soldados presos em um espaço confinado, enquanto lutam com a moralidade, a futilidade e uma situação de combate cada vez mais insustentável e perto de um desfecho ruim para todos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A EXCEÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
