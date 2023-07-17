@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A CAMINHO DE CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ad7cfc510eb98670c96dd112b8bf49feaadcc6c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wY6EGmkVTv0mlOcFgNN66rVKevp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um veterano perturbado da Guerra do Iraque, que luta para se reintegrar na sociedade, parte numa viagem entre países com a esperança de se reunir com o seu jovem filho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O PACTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e68805f93b408f3c3803b8ae1bb2fb1ff97c9cd9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg</thumbnail>
