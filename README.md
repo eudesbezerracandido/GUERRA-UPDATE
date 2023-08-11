@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] CORVO BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:138a639f81357147e3b8e0bc7d907ba866de3301</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1zNcJWXQYgMDAF3pNoqxU47FHfc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de sofrer uma tragédia nas mãos de soldados invasores em Donbass, um professor de física ucraniano busca vingança. Ele está de olho em um atirador de elite russo cuja eliminação pode mudar o curso do conflito.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A CAMINHO DE CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ad7cfc510eb98670c96dd112b8bf49feaadcc6c</link>
