@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 1942 A BATALHA DESCONHECIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76cb20c1a0ffa05d9a7313835fdeb8aa9e3ba849</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ee8vgETGy7xRCM2VJh4tGW86nyk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após vários meses de combates ferozes, o Exército Vermelho finalmente derrotou o inimigo da aldeia de Ovsyannikovo, o que custou enormes perdas - apenas um terço do pessoal permanece na empresa. Exaustos, os soldados aguardam reforços, mas vem do quartel-general uma ordem - manter a aldeia a todo o custo, o que equivale a uma sentença de morte. O comandante da companhia enfrenta uma escolha difícil - perder os remanescentes da companhia, seguindo uma ordem de comando sem sentido, ou retirar seu pessoal do fogo de morteiro, mas ao mesmo tempo deixar suas posições e ir ao tribunal por violar a ordem. Em detalhes extremamente realistas, apenas uma batalha feroz é mostrada, na qual, como em uma gota d'água, toda a verdade sobre a guerra se reflete.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERRA EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88a2e074b0f21dcc3b8bb8e38c5f870effe7bebd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iyZ5xWPmGEuGopE1NPzSQiPO0Zj.jpg</thumbnail>
