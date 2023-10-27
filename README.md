@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] TRAUMAS DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d48a699683a74d534882fe946028e63535b87cbb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jLSiWNnWYqIelgKRakUKruwEKi9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jason Pate é um sargento do exército americano que retorna para casa depois do seu terceiro período servindo no Afeganistão. Acostumado aos efeitos da guerra, ele enfrenta dificuldade em se adaptar a sua nova vida, junto de sua esposa e de sua filha de quatro anos, até o dia em que ele decide buscar ajuda em um grupo de veteranos de guerra que sofrem de estresse pós-traumático e enfrentam os mesmos problemas que ele.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CORVO BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:138a639f81357147e3b8e0bc7d907ba866de3301</link>
