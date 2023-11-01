@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] AMOR EM TEMPOS DE ÓDIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/amor-em-tempo-de-odio/Amor%20em%20Tempo%20de%20%C3%93dio.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Leyna (Amandla Stenberg) é uma adolescente filha de uma mãe branca alemã e um pai negro. Morando na Alemanha em 1944, ela vive em constante medo por conta da cor de sua pele. Quando ela conhece Lutz (George MacKay), o filho de um oficial da SS e membro da Juventude Hitlerista, os dois acabam se apaixonando, colocando suas vidas em risco.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TRAUMAS DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d48a699683a74d534882fe946028e63535b87cbb</link>
