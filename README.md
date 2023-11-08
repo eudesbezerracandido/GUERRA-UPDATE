@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] IRMÃOS DE HONRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f985dfc34e289cab98669d07eb645fe865954c94</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jesse Brown se destaca por superar a pobreza e bater de frente com a discriminação racial para conseguir cursar a faculdade. Mas Brown quis mais: também se tornou o primeiro homem negro a se formar piloto da Marinha, onde sua dedicação foi reconhecida mediante elogios de seu comandante. Jesse Brown e o tenente Thomas Hudner Jr., designado para ser seu novo parceiro, colocam suas vidas em risco na Guerra da Coreia e entram para a História como os pilotos mais famosos da Marinha dos Estados Unidos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMOR EM TEMPOS DE ÓDIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/amor-em-tempo-de-odio/Amor%20em%20Tempo%20de%20%C3%93dio.mp4</link>
