@@ -7,6 +7,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] CODIMOME: BANDEIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87266f278a6628d85005f7d2c0b39ed185420a50</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/dBUXcKPe4od2yRAYN4wUUdmahBF.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Em uma região controlada pelo exército russo, um grupo de soldados ucranianos, liderados pelo experiente capitão Anton Sayenko, tenta descobrir a identidade de um sabotador russo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] IRMÃOS DE HONRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f985dfc34e289cab98669d07eb645fe865954c94</link>
