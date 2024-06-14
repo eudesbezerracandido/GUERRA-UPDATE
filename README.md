@@ -8,7 +8,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A CAÇADORA DE AUSCHWITZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1190930eaa4df189ac60f4edb27073f1328aaf65</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/xCG4aYLiJougK9UIHsCsBMjQ4pl.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma jovem americana viaja até a Europa para encontrar o guarda nazista responsável pela morte de seus bisavôs.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CODIMOME: BANDEIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
